@@ -1,0 +1,28 @@
+# Valorisation des sous-produits oléicoles dans le nord
+
+## Auteur
+- **Nom et Prénom** : EL KHAMLYCHY Maryam
+- **Email** : maryam.elkhamlychy@etu.uae.ac.ma
+- **ORCID** : https://orcid.org/0009-0005-0197-329 
+- **Laboratoire** : science de l'alimentation et sante
+- **Établissement** : Université Abdelmalek Essaâdi
+- **Directeur de thèse** : MENNANE Zakariae
+
+## Description
+Ce dépôt contient les scripts Python de ma thèse.
+
+Mon sujet de thèse porte sur : Valorization of Olive Oil By-Products: Microbiological and Biotechnological Approaches and Applications in Sustainable Development
+
+## Fichiers
+- `analyse.py` : script principal d'analyse des données
+- `LICENSE` : licence MIT 
+- `README.md` : ce fichier
+
+## Licence
+Ce projet est sous licence MIT. Voir le fichier `LICENSE`.
+
+## Contact
+Pour toute question : maryam.elkhamlychy@etu.uae.ac.ma
+
+---
+*Formation doctorale Module 5 — Culture digitale. Année 2026-2027.*
